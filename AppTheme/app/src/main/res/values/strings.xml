@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Theme</string>
+    <string name="primary_color">primary color</string>
+    <string name="button">button</string>
+    <string name="secondary_color">secondary color</string>
+    <string name="email_icon">email icon</string>
+</resources>
