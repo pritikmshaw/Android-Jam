@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">TipCalculator</string>
     <string name="cost_of_service">Cost of Service</string>
@@ -9,5 +9,6 @@
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
     <string name="tip_amount">Tip Amount: %s</string>
+    <string name="lable">lable</string>
 
 </resources>
